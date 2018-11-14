@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-11-14T06:15:28Z" name="Suite Name" finished-at="2018-11-14T06:19:01Z" duration-ms="212286">
+    <groups>
+    </groups>
+    <test started-at="2018-11-14T06:15:28Z" name="TestA" finished-at="2018-11-14T06:19:01Z" duration-ms="212286">
+      <class name="com.qa.hubspot.tests.HomePageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.HomePageTest@2de23121]" started-at="2018-11-14T06:15:28Z" name="setup" finished-at="2018-11-14T06:15:49Z" duration-ms="20656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.qa.hubspot.tests.HomePageTest@2de23121]" started-at="2018-11-14T06:15:49Z" name="verifyHomePageTitleTest" finished-at="2018-11-14T06:16:03Z" duration-ms="13761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.HomePageTest@2de23121]" started-at="2018-11-14T06:16:03Z" name="tearDown" finished-at="2018-11-14T06:16:05Z" duration-ms="2142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.HomePageTest@2de23121]" started-at="2018-11-14T06:16:23Z" name="setup" finished-at="2018-11-14T06:16:48Z" duration-ms="24574" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageHeader()[pri:2, instance:com.qa.hubspot.tests.HomePageTest@2de23121]" started-at="2018-11-14T06:16:48Z" name="verifyHomePageHeader" finished-at="2018-11-14T06:17:08Z" duration-ms="20417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.HomePageTest@2de23121]" started-at="2018-11-14T06:17:08Z" name="tearDown" finished-at="2018-11-14T06:17:11Z" duration-ms="2807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.HomePageTest@2de23121]" started-at="2018-11-14T06:17:34Z" name="setup" finished-at="2018-11-14T06:17:53Z" duration-ms="18341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCorrectLoggedInAccountNameTest()[pri:3, instance:com.qa.hubspot.tests.HomePageTest@2de23121]" started-at="2018-11-14T06:17:53Z" name="verifyCorrectLoggedInAccountNameTest" finished-at="2018-11-14T06:18:09Z" duration-ms="16083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCorrectLoggedInAccountNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.HomePageTest@2de23121]" started-at="2018-11-14T06:18:09Z" name="tearDown" finished-at="2018-11-14T06:18:11Z" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.HomePageTest -->
+      <class name="com.qa.hubspot.tests.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:16:05Z" name="setup" finished-at="2018-11-14T06:16:21Z" duration-ms="16218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogibPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:16:21Z" name="verifyLogibPageTitleTest" finished-at="2018-11-14T06:16:21Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogibPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:16:21Z" name="tearDown" finished-at="2018-11-14T06:16:23Z" duration-ms="2148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:17:11Z" name="setup" finished-at="2018-11-14T06:17:32Z" duration-ms="21132" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyForgotPasswordLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:17:32Z" name="verifyForgotPasswordLinkTest" finished-at="2018-11-14T06:17:32Z" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:17:32Z" name="tearDown" finished-at="2018-11-14T06:17:34Z" duration-ms="2074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:18:11Z" name="setup" finished-at="2018-11-14T06:18:29Z" duration-ms="17895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:3, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:18:29Z" name="loginTest" finished-at="2018-11-14T06:18:30Z" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:18:30Z" name="tearDown" finished-at="2018-11-14T06:18:32Z" duration-ms="2140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:18:32Z" name="setup" finished-at="2018-11-14T06:18:58Z" duration-ms="26248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySignUpLinkTest()[pri:4, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:18:58Z" name="verifySignUpLinkTest" finished-at="2018-11-14T06:18:58Z" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUpLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginTest@63475ace]" started-at="2018-11-14T06:18:58Z" name="tearDown" finished-at="2018-11-14T06:19:01Z" duration-ms="2566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginTest -->
+    </test> <!-- TestA -->
+  </suite> <!-- Suite Name -->
+</testng-results>
